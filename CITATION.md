@@ -2,4 +2,4 @@
 
 Please cite this work as:
 
-YOUR_NAME_HERE. 2022. "Repo Structure". REPO_URL_HERE
+LUIS_VALLARTA. 2022. "Repo Structure". [REPO_URL_HERE](https://github.com/LUISVALLARTA/Repo_structure)
